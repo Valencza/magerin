@@ -1,0 +1,1 @@
+Waiting customer to finish transaction order_id: magerin_24074_basic using bank_transfer

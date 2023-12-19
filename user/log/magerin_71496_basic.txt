@@ -1,0 +1,1 @@
+Transaction order_id: magerin_71496_basic successfully transfered using bank_transfer
